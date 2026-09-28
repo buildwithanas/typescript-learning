@@ -1,3 +1,1 @@
-let id: number = 5
-
-id = '5'
+var id: number = 5;
