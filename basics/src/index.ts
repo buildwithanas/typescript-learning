@@ -1,2 +1,2 @@
 let age: number = 20;
-if (age < )
+if (age < 50)
